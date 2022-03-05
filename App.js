@@ -66,7 +66,7 @@ const App: () => Node = () => {
         contentInsetAdjustmentBehavior="automatic"
         style={backgroundStyle}>
         <Header />
-        <View
+        <View 
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
