@@ -12,7 +12,6 @@ Notes pro is an React native app used to make notes based on daily activities..
 =======
 # NotesPro 
 Notes pro is an React native app used to make  notes based on daily activities..
->>>>>>> 8324facfa5d0b537493d1b312a4ef27aa3b44416
 Step 1:npm install
 step 2:yarn install
 
